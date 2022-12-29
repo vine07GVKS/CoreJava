@@ -15,8 +15,5 @@ public class Arethmetic_Operator {
         String after_Wallet="before i spend amount in wallet "+Wallet+ " after i spend remaining amount in Wallet "+myWallet;
         System.out.println(after_Wallet);
 
-
-
-
     }
 }
