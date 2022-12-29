@@ -1,7 +1,7 @@
 package first_ass;
 public class sec_ass
 {
-    static int shop= 20 ;
+   static int shop=10;
     public static void main(String[] args)
     {
         float myStore=shop;
