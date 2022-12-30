@@ -1,4 +1,4 @@
-package first_ass;
+package assignment;
 public class sec_ass
 {
    static int shop=10;

@@ -1,4 +1,4 @@
-package first_ass;
+package assignment;
 
 import java.util.Scanner;
 

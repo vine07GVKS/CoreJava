@@ -1,4 +1,4 @@
-package first_ass;
+package assignment;
 
 public class Bitwise_operator {
     public static void main(String[] args) {

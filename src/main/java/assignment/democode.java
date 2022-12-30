@@ -1,4 +1,4 @@
-package first_ass;
+package assignment;
 
 public class democode {
     float numModel =5.3f;
